@@ -8,14 +8,14 @@ ___
 * Acesse a pasta raiz do projeto.
 ___
 ## Para executar o projeto em Pyautogui 
-* `cd Pyautogui`.
+* `cd Pyautogui`
 * `py -m venv .venv`
 * `.venv/Scripts/activate`
 * `py -m pip install -r requirements.txt`
 * `py -m main`
 ___
 ## Para executar o projeto em Selenium 
-* `cd Selenium`.
+* `cd Selenium`
 * `py -m venv .venv`
 * `.venv/Scripts/activate`
 * `py -m pip install -r requirements.txt`
